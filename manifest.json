@@ -1,0 +1,10 @@
+{
+  "name": "ことば 카드 — 일본어 단어장",
+  "short_name": "ことば 카드",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f3ed",
+  "theme_color": "#f6f3ed",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
